@@ -65,7 +65,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lenkaasid/lenkaasid/output/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lenkaasid/lenkaasid/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
